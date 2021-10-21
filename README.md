@@ -1,1 +1,1 @@
-*learning python fpr data engineering purposes*
+*learning python for data engineering purposes*
